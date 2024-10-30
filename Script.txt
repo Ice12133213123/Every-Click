@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Ice12133213123/Every-Click/refs/heads/main/Every%20Click%20Farm.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Ice12133213123/Every-Click/refs/heads/main/source.lua'))()
